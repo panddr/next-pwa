@@ -326,7 +326,6 @@ module.exports =
                 cleanupOutdatedCaches,
                 ignoreURLParametersMatching,
                 importScripts,
-                ...workbox,
                 runtimeCaching
               })
             )
