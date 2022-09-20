@@ -1,6 +1,6 @@
 {
   "name": "@panddr/next-pwa",
-  "version": "5.6.0",
+  "version": "5.6.1",
   "description": "Next.js with PWA, powered by workbox.",
   "main": "index.js",
   "repository": "https://github.com/panddr/next-pwa",
