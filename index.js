@@ -214,7 +214,7 @@ module.exports =
               ({ asset, compilation }) => {
                 if (
                   asset.name.startsWith('server/') ||
-                  asset.name.match(/^(build-manifest\.json|react-loadable-manifest\.json)$/)
+                  asset.name.match(/^(middleware-manifest\.json|build-manifest\.json|react-loadable-manifest\.json)$/)
                 ) {
                   return true
                 }
